@@ -1,1 +1,1 @@
-display current directory contents including hidden files
+script that changes the working directory to home directory
