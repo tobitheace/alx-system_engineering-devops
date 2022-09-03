@@ -1,1 +1,1 @@
-Delete Betty
+Delete the directory
