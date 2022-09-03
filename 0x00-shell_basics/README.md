@@ -1,1 +1,1 @@
-Script that creates a directory
+script that changes working directory to home directory
