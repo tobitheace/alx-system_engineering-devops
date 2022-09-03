@@ -1,1 +1,1 @@
-move betty
+Delete Betty
